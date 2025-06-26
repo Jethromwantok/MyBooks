@@ -1,0 +1,99 @@
+C:\Users\hp\.m2\repository\org\springframework\boot\spring-boot-autoconfigure\3.4.1\spring-boot-autoconfigure-3.4.1.jar!
+\org\springframework\boot\autoconfigure\SpringBootApplication.class
+
+
+### **Categories of Application Domains in Computing**  
+
+Application domains refer to different **areas** where computers and software are used to solve specific problems. Here are the main categories:  
+
+### **1. Scientific Applications** 🧪🔬  
+Used for **complex mathematical and numerical computations** in science and engineering.  
+**Examples:**  
+✔ Weather forecasting  
+✔ Space exploration simulations  
+✔ DNA sequencing  
+✔ Engineering design (CAD software)  
+**Languages:** FORTRAN, MATLAB, Python  
+
+### **2. Business Applications** 💼📊  
+Focused on **data processing, financial transactions, and record management**.  
+**Examples:**  
+✔ Payroll systems  
+✔ Banking and financial systems  
+✔ Enterprise Resource Planning (ERP) software  
+✔ Inventory management  
+**Languages:** COBOL, SQL, Java, C#  
+
+### **3. Artificial Intelligence (AI) Applications** 🤖🧠  
+Designed for **machines to simulate human intelligence**.  
+**Examples:**  
+✔ Chatbots and virtual assistants (e.g., Siri, Alexa)  
+✔ Image and speech recognition (e.g., facial recognition)  
+✔ Machine learning models for prediction  
+✔ Self-driving cars  
+**Languages:** Python, Lisp, Prolog, R  
+
+### **4. Web-Based Applications** 🌐💻  
+Programs that run on **browsers or over the internet**.  
+**Examples:**  
+✔ E-commerce websites (Amazon, eBay)  
+✔ Social media platforms (Facebook, Twitter)  
+✔ Online banking systems  
+✔ Cloud-based services (Google Drive, Dropbox)  
+**Languages:** HTML, JavaScript, PHP, Python, Node.js  
+
+### **5. System Software & Operating Systems** 🖥⚙  
+Software that **manages computer hardware and provides a platform** for other applications.  
+**Examples:**  
+✔ Operating systems (Windows, Linux, macOS)  
+✔ Device drivers  
+✔ Utility programs (antivirus, disk management)  
+**Languages:** C, C++, Assembly  
+
+### **6. Real-Time Applications** ⏳🚦  
+Software that **responds instantly to inputs**, often used in critical systems.  
+**Examples:**  
+✔ Air traffic control systems  
+✔ Industrial automation  
+✔ Medical monitoring systems  
+✔ Military defense systems  
+**Languages:** C, C++, Ada  
+
+### **7. Embedded Systems** 🔌📟  
+Software built into **hardware devices** for specific tasks.  
+**Examples:**  
+✔ Smart home devices (smart TVs, thermostats)  
+✔ Car control systems (engine control units)  
+✔ Consumer electronics (microwaves, washing machines)  
+**Languages:** C, C++, Assembly  
+
+### **8. Entertainment & Multimedia Applications** 🎮📺  
+Used for **fun, creativity, and media consumption**.  
+**Examples:**  
+✔ Video games (PlayStation, Xbox games)  
+✔ Streaming services (Netflix, YouTube)  
+✔ Music production software (FL Studio, Ableton)  
+✔ Animation software (Blender, Maya)  
+**Languages:** C++, Java, Unity (C#)  
+
+### **9. Database Applications** 📚💾  
+Used for **storing, organizing, and retrieving structured data**.  
+**Examples:**  
+✔ Online booking systems  
+✔ Library management systems  
+✔ Customer relationship management (CRM) software  
+✔ Healthcare records systems  
+**Languages:** SQL, NoSQL, MongoDB, Oracle  
+
+### **10. Mobile Applications** 📱📲  
+Software designed for **smartphones and tablets**.  
+**Examples:**  
+✔ Mobile banking apps  
+✔ Social media apps (Instagram, WhatsApp)  
+✔ Fitness and health tracking apps  
+✔ Ride-sharing apps (Uber, Lyft)  
+**Languages:** Java (Android), Swift (iOS), Kotlin, React Native  
+
+### **Conclusion**  
+Each application domain is **designed for specific needs** and requires different technologies and programming languages. 
+Understanding these categories helps in **choosing the right software solutions** for different industries. 🚀
